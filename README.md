@@ -96,6 +96,10 @@ The project uses an **E-Commerce Transactions & Clickstream** dataset consisting
 
 **Total:** 7 related tables covering customers, products, transactions, website activity, and customer feedback.
 
+The raw dataset files used in this project are hosted on Google Drive.
+
+👉 [**Access the Dataset**](https://drive.google.com/drive/folders/1uKLKp-3_GhWrE5uXNs8kOaztWkWe3fs4?usp=sharing)
+
 ---
 
 # 🧹 1. Excel — Data Audit & Exploration
