@@ -456,7 +456,3 @@ into a centralized analytical solution.
 The project demonstrates how raw e-commerce data can be transformed into a **structured, validated, and business-focused analytics solution** — with the complete process documented from initial data audit through final dashboard development.
 
 ---
-
-# 👩‍💻 Author
-**Sneha Kachhap**
-**Focus Areas:** Data Analytics | Business Analytics | Excel | Python | Power BI 
