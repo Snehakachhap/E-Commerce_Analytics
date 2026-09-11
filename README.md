@@ -1,4 +1,4 @@
-# E-Commerce Analytics: Business Performance &amp; Customer InsightsE-Commerce_Analytics
+# E-Commerce Analytics: Business Performance &amp; Customer Insights
 
 An end-to-end **E-Commerce Analytics project** that transforms raw transactional and clickstream data into a structured, decision-oriented business intelligence solution using **Excel, Python, and Power BI**.
 
